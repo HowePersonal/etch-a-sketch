@@ -1,0 +1,17 @@
+#grid {
+    display: grid;
+    
+}
+
+body {
+    min-height:100vh;
+    display: flex;
+    background-color: rgb(196, 193, 193);
+    justify-content: center;
+    align-items: center;
+}
+
+#sizeButton {
+    display: flex;
+    margin-right: 5px;
+}
